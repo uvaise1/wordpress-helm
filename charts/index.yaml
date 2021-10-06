@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  Wordress:
+  - apiVersion: v1
+    appVersion: 1.1.0
+    created: "2021-10-06T11:34:59.9421453+05:30"
+    description: Wordpress by Uvaise for Kubernetes
+    digest: d7d7bd4eba9a2e571a405605359af72b322e361498a163a06daa00d03f41f599
+    name: Wordress
+    type: application
+    urls:
+    - Wordress-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-10-06T11:34:59.94093+05:30"
